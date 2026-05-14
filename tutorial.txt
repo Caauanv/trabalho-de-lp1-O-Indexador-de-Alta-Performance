@@ -1,0 +1,20 @@
+Como Fornecer os Dados de Entrada
+1. Caminho da pasta com os arquivos .txt
+Ao iniciar, o programa pedirá o caminho da pasta onde estão os arquivos de texto:
+Digite o caminho da pasta com os arquivos .txt:
+Você pode fornecer o caminho de duas formas:
+Caminho absoluto:
+C:\Users\SeuNome\Desktop\textos_EX
+Caminho relativo:
+..//textos_EX
+
+A pasta deve conter apenas arquivos .txt. O programa irá indexar todos automaticamente.
+
+2. Termo de busca
+Após a indexação, o programa exibirá o prompt de busca:
+Pesquise o termo (ou 'sair' para parar):
+
+Palavras com 5 ou mais caracteres → busca rápida via tabela hash
+Palavras com menos de 5 caracteres → busca direta nos arquivos, pressione Enter para próxima ocorrência ou Esc para voltar
+Digite sair para encerrar
+obs:Termos com menos de 5 caracteres não são indexados na tabela hash — a busca por eles é feita varrendo o arquivo na hora.
