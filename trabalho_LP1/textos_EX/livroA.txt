@@ -1,0 +1,15 @@
+A inteligência artificial está transformando o mundo em uma velocidade impressionante. 
+Sistemas de aprendizado de máquina conseguem analisar grandes volumes de dados textuais, 
+imagens e registros numéricos, encontrando padrões escondidos que antes passariam despercebidos. 
+O desafio da indexação é permitir que termos como "dados", "padrões", "aprendizado" e "informação" 
+sejam localizados de forma instantânea, mesmo em arquivos com milhões de linhas. 
+Com uma tabela hash, cada ocorrência pode ser mapeada com precisão, armazenando o offset exato 
+para que o acesso seja imediato. 
+
+Imagine um pesquisador que precisa encontrar todas as menções à palavra "genoma" em uma base 
+com milhares de artigos científicos. Sem indexação, a busca seria lenta e custosa. 
+Com um sistema eficiente, a primeira busca constrói o índice e as próximas consultas 
+acontecem quase instantaneamente. Essa é a essência da recuperação de informação: 
+transformar palheiros digitais em espaços organizados, onde cada agulha pode ser encontrada 
+com rapidez e confiabilidade.
+
