@@ -5,8 +5,6 @@ Digite o caminho da pasta com os arquivos .txt:
 Você pode fornecer o caminho de duas formas:
 Caminho absoluto:
 C:\Users\SeuNome\Desktop\textos_EX
-Caminho relativo:
-..//textos_EX
 
 A pasta deve conter apenas arquivos .txt. O programa irá indexar todos automaticamente.
 
