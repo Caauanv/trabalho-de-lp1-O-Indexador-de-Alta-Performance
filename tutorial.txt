@@ -6,7 +6,7 @@ Você pode fornecer o caminho de duas formas:
 Caminho absoluto:
 C:\Users\SeuNome\Desktop\textos_EX
 
-A pasta deve conter apenas arquivos .txt. O programa irá indexar todos automaticamente.
+A pasta deve conter arquivos .txt. O programa irá indexar todos automaticamente.
 
 2. Termo de busca
 Após a indexação, o programa exibirá o prompt de busca:
